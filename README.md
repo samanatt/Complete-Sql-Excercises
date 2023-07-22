@@ -21,10 +21,10 @@ multi statements, works with string(len(), Reverse(), Replicate(), space(), subs
 
 Day_6: CharIndex(), Cast(), Convert(), PattIndex(), Format(), String split(), String agg(), Collation, DataTypes(Char,Nchar,Nvarchar,Varchar), 
 time, date, datetime, smalldatetime, datetime2, datepart, datename, dateadd, datediff, int, small int, tiny int, big int, bit, money, binery(max), varbinery()
-Primery key, Forign key, Unique key, Database Diagram, Delete & Update Rules(No action, set null, cascade, set defult), n-n relationship, 1-n relationship, 
+Primery key, Foreign key, Unique key, Database Diagram, Delete & Update Rules(No action, set null, cascade, set defult), n-n relationship, 1-n relationship, 
 1-1 relationship, check Constraint
 
-![Uploading Dia-1.PNG…]()
+![Dia-1](https://github.com/samanatt/Complete-Sql-Excercises/assets/95404706/e799eddb-35d1-4dc8-8f8b-a835e8fb2261)
 
-![Uploading 12.PNG…]()
+![12](https://github.com/samanatt/Complete-Sql-Excercises/assets/95404706/4b633c32-5a91-4e1a-930f-ee3cf8701ec8)
 

@@ -24,7 +24,9 @@ time, date, datetime, smalldatetime, datetime2, datepart, datename, dateadd, dat
 Primery key, Foreign key, Unique key, Database Diagram, Delete & Update Rules(No action, set null, cascade, set defult), n-n relationship, 1-n relationship, 
 1-1 relationship, check Constraint
 
+![12](https://github.com/samanatt/Complete-Sql-Excercises/assets/95404706/4b633c32-5a91-4e1a-930f-ee3cf8701ec8)
+
+
 ![Dia-1](https://github.com/samanatt/Complete-Sql-Excercises/assets/95404706/e799eddb-35d1-4dc8-8f8b-a835e8fb2261)
 
-![12](https://github.com/samanatt/Complete-Sql-Excercises/assets/95404706/4b633c32-5a91-4e1a-930f-ee3cf8701ec8)
 

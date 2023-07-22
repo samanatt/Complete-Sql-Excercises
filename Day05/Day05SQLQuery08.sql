@@ -1,0 +1,1 @@
+exec sp_helptext '[dbo].[f]'

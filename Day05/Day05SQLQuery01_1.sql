@@ -1,0 +1,9 @@
+CREATE PROCEDURE FirstSP
+AS
+Begin
+
+	SELECT *
+	FROM Person_Old
+
+
+End

@@ -1,0 +1,5 @@
+USE DB_18
+
+
+SELECT *
+FROM DB_18.dbo.Person

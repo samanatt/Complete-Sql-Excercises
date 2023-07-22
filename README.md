@@ -17,7 +17,7 @@ Insert, Union, Union all, Except, Recursive CTE
 Day_4: Join, left join, Right join, Inner join, full join, cross join, self join(Its a concept not a function!), Trees
 
 Day_5: objects, Tables, Stored Procedures, Connection with Third parties, Declare, While, With Encryption, Function, Insert, Delete, Update, Table valued function, 
-multi statement, works with string(len(), Reverse(), Replicate(), space(), substring(), left(), Right(), Replace(), stuff(), concat(), concat-ws())
+multi statements, works with string(len(), Reverse(), Replicate(), space(), substring(), left(), Right(), Replace(), stuff(), concat(), concat-ws())
 
 Day_6: CharIndex(), Cast(), Convert(), PattIndex(), Format(), String split(), String agg(), Collation, DataTypes(Char,Nchar,Nvarchar,Varchar), 
 time, date, datetime, smalldatetime, datetime2, datepart, datename, dateadd, datediff, int, small int, tiny int, big int, bit, money, binery(max), varbinery()

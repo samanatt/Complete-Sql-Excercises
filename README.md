@@ -1,6 +1,6 @@
 # Complete-Sql-Excercises-
 
-Day_1: Fundametals, T-sql, View Layers, Case When, choose(), Orderby, add a comment, distinct, offset, fetch, top, where cluase, in, and, or, between, not, isnull()
+Day_1: Fundametals, T-sql, View Layer, Case When, choose(), Orderby, add a comment, distinct, offset, fetch, top, where cluase, in, and, or, between, not, isnull()
 
 Day_2: Exists, all, some, any, regex in sql, like, SubQuery, Commen Table Expression(CTE), Aggregate functions(Avg, min, max, count, sum,string agg,...), group by, 
 select(4)
